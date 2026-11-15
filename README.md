@@ -2,7 +2,7 @@
 
 A high-performance, responsive single-page developer portfolio website showcasing data analytics workflows, database management, and web development capabilities.
 
-**Live site:** [https://YOUR-SITE-URL/](https://YOUR-SITE-URL/)
+**Live site:** [https://my-portfolio-one-omega.vercel.app](https://my-portfolio-one-omega.vercel.app)
 
 ## Tech Stack
 - **React 19** — Component-driven frontend user interface
